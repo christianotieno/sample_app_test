@@ -37,3 +37,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'rubocop'
+
+#the bootstrap-sass 
+
+gem 'bootstrap-sass', '3.3.7'
