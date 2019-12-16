@@ -6,6 +6,7 @@ class UsersController < ApplicationController
     @user = User.find(params[:id])
   end
   
-  def new; 
+  def new
+    @users = User.new
   end
 end
