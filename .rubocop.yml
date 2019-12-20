@@ -26,11 +26,6 @@ Style/Documentation:
 Style/ClassAndModuleChildren:
   Enabled: false
 
-<<<<<<< HEAD
-Layout/HashAlignment:
-  EnforcedColonStyle: key
-=======
->>>>>>> sign-up
 Layout/ExtraSpacing:
   AllowForAlignment: false
 Layout/MultilineMethodCallIndentation:
