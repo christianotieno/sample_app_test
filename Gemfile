@@ -44,3 +44,8 @@ gem 'rubocop'
 # the bootstrap-sass
 
 gem 'bootstrap-sass', '3.3.7'
+
+# Provides a better error page for Rails and other Rack apps. 
+# Includes source code inspection, a live REPL and local/instance variable inspection for all stack frames.
+
+gem 'better_errors', '~> 2.5', '>= 2.5.1'
