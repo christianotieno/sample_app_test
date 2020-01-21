@@ -2,5 +2,5 @@
 
 class Micropost < ApplicationRecord
   belongs_to :user
-  validates :user_id, presence: true
+  validates :user_id, presence: true, length: { minimum: 3, maximum: 140 }
 end
