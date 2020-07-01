@@ -37,5 +37,13 @@ If the test suite passes, you'll be ready to run the app in a local server:
 $ rails server
 ```
 
+### Author's Social Links
+
+👤 **Christian Otieno**
+
+* Github: [@christianotieno](https://github.com/christianotieno)
+* Twitter: [@iamchisotieno](https://twitter.com/iamchrisotieno)
+* Linkedin: [Christian Otieno](https://www.linkedin.com/in/christianotieno/)
+
 For more information, see the
 [*Ruby on Rails Tutorial* book](https://www.railstutorial.org/book).
