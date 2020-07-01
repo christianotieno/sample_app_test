@@ -39,6 +39,11 @@ $ rails server
 
 ### Author's Social Links
 
+👤 **Tommy Montana**
+
+* Github: [@TommyM0ntana](https://github.com/TommyM0ntana)
+* Twitter: [@tommymo13761893](https://twitter.com/tommymo13761893)
+
 👤 **Christian Otieno**
 
 * Github: [@christianotieno](https://github.com/christianotieno)
